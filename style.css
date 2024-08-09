@@ -1,0 +1,128 @@
+*{
+    margin: 0;
+    padding: 0;
+    }
+    
+    header{
+    background-color: #0cce46;
+        color: rgb(0, 0, 0);
+        display: flex;
+        justify-content: last baseline;
+        align-items: center;
+        padding: 0Px 0;
+    font-size: 50px;
+    }
+    
+    .cabecalho-imagem{
+    width: 150%;
+    }
+    
+    .cabecalho-lista-item{
+        display: inline-block;
+        margin: 0  50px;
+        width: 150%;
+    }    
+    .escola-imagem{
+        width: 45%;
+    }
+    
+    .escola{
+    background-image: linear-gradient( #0cce46, #068daf);
+    }
+    
+    .escola{
+        color: aliceblue;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 20px 0;
+    }
+    
+    .escola-titulo{
+        padding: 25px 0;
+    }
+    .cabecalho-lista-item{
+        color: aliceblue;
+    }
+    
+    .escola-div-conteúdo{
+
+            font-family: "Poppins", sans-serif;
+            font-weight: 400;
+            font-style: normal;
+        width: 40%;
+    }
+    
+
+    body{ 
+          .poppins-regular {
+            font-family: "Poppins", sans-serif;
+            font-weight: 400;
+            font-style: normal;
+          }
+          
+    }
+    
+    .estudantes{
+    background-image: linear-gradient( #068daf, #000770);
+    color: #ffffff;
+    
+    }
+    
+    .texto-sensei{
+        width: 32%;
+        font-family: "Poppins", sans-serif;
+            font-weight: 450;
+            font-style: normal;
+        color: aliceblue;
+        margin: 0 20px;
+        padding: 40px 40;
+        text-align: left;
+    }
+
+
+    .estudante-imagem{
+        width: 360px;
+    }
+    
+    .estudante-icone{
+        width: 25px;
+        padding: 0px 0;
+
+    }
+    
+    .estudante-div{
+        text-align: justify;
+        margin: 0 15px;
+        padding: 50px 0;
+        font-size: 0px;
+    }
+    
+    .estudante-titulo{
+        text-align: center;
+    padding: 35px 0;
+    font-size: 60px;
+    
+    }
+    
+    .rodapé{
+        color: #fffefe;
+        background-color: #000770;
+    
+    }
+    
+    .rodapé-texto{
+        height: 60px;
+        color: #ffffff
+        justify-content: space-between;
+        
+    }
+    
+    .estudante-todos{
+        display: grid;
+        grid-template-columns: 34% 20% 20% 20%;
+    }
+    .estudante-nome{
+        font-size: 30px;
+    }
+    
